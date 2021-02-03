@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+$(document).ready(function(){
+	console.log("ready");
+	$("#testbutton").click(function(){
+		console.log("clicked");
+	});
+})
